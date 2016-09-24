@@ -1,0 +1,22 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "lab3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony9866/COMP2068_LAB3.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "author": "zhen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tony9866/COMP2068_LAB3/issues"
+  },
+  "homepage": "https://github.com/Tony9866/COMP2068_LAB3#readme"
+}
